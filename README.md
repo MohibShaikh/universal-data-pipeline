@@ -68,7 +68,7 @@ universal-data-pipeline/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/universal-data-pipeline
+git clone [https://github.com/yourusername/universal-data-pipeline](https://github.com/MohibShaikh/universal-data-pipeline.git)
 cd universal-data-pipeline
 
 # Install basic dependencies
