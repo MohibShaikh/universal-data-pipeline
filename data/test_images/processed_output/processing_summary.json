@@ -1,6 +1,6 @@
 {
-  "input_directory": "test",
-  "output_directory": "test\\processed_output",
+  "input_directory": "data\\test_images",
+  "output_directory": "data\\test_images\\processed_output",
   "processing_summary": {
     "image": {
       "total_files": 885,
