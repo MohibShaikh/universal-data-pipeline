@@ -1,0 +1,15 @@
+{
+  "input_directory": "data\\sample_data\\timeseries",
+  "output_directory": "data\\sample_data\\timeseries\\processed_output",
+  "processing_summary": {
+    "timeseries": {
+      "total_files": 2,
+      "successfully_processed": 2,
+      "success_rate": "100.0%"
+    }
+  },
+  "total_files_processed": 2,
+  "data_types_found": [
+    "timeseries"
+  ]
+}

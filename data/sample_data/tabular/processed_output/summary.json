@@ -1,0 +1,9 @@
+{
+  "input_directory": "data\\sample_data\\tabular",
+  "output_directory": "data\\sample_data\\tabular\\processed_output",
+  "files_processed": 2,
+  "files_by_type": {
+    "tabular": 4,
+    "unknown": 4
+  }
+}

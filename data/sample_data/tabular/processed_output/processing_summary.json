@@ -1,0 +1,15 @@
+{
+  "input_directory": "data\\sample_data\\tabular",
+  "output_directory": "data\\sample_data\\tabular\\processed_output",
+  "processing_summary": {
+    "tabular": {
+      "total_files": 5,
+      "successfully_processed": 4,
+      "success_rate": "80.0%"
+    }
+  },
+  "total_files_processed": 4,
+  "data_types_found": [
+    "tabular"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "input_directory": "test",
+  "output_directory": "test\\processed_output",
+  "processing_summary": {
+    "image": {
+      "total_files": 885,
+      "successfully_processed": 885,
+      "success_rate": "100.0%"
+    }
+  },
+  "total_files_processed": 885,
+  "data_types_found": [
+    "image"
+  ]
+}

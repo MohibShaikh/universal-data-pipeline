@@ -1,0 +1,23 @@
+{
+  "dataset_name": "Demo Split Dataset",
+  "splits": {
+    "train": 20,
+    "test": 8,
+    "val": 6
+  },
+  "total_images": 34,
+  "annotation_format": "yolo",
+  "num_classes": 80,
+  "class_names": [
+    "person",
+    "bicycle",
+    "car",
+    "motorcycle",
+    "airplane",
+    "bus",
+    "train",
+    "truck",
+    "boat",
+    "traffic light"
+  ]
+}

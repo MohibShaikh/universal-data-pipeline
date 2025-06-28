@@ -1,0 +1,15 @@
+include README.md
+include requirements.txt
+include LICENSE
+recursive-include universal_pipeline *.py
+recursive-include configs *.json *.yaml *.yml
+recursive-include examples *.py
+recursive-include scripts *.py
+recursive-include tests *.py
+prune venv
+prune data/*/processed_output
+prune logs
+prune models
+exclude *.log
+global-exclude __pycache__
+global-exclude *.py[co] 

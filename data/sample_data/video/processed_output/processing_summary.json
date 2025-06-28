@@ -1,0 +1,15 @@
+{
+  "input_directory": "sample_data\\video",
+  "output_directory": "sample_data\\video\\processed_output",
+  "processing_summary": {
+    "video": {
+      "total_files": 1,
+      "successfully_processed": 1,
+      "success_rate": "100.0%"
+    }
+  },
+  "total_files_processed": 1,
+  "data_types_found": [
+    "video"
+  ]
+}

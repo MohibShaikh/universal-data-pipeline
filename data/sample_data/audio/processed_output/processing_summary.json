@@ -1,0 +1,15 @@
+{
+  "input_directory": "sample_data\\audio",
+  "output_directory": "sample_data\\audio\\processed_output",
+  "processing_summary": {
+    "audio": {
+      "total_files": 3,
+      "successfully_processed": 0,
+      "success_rate": "0.0%"
+    }
+  },
+  "total_files_processed": 0,
+  "data_types_found": [
+    "audio"
+  ]
+}
